@@ -1,4 +1,4 @@
-# ABC-Executive-Summary-Profitability-Dashboard
+ABC-Executive-Summary-Profitability-Dashboard
 An interactive Excel dashboard project focused on analyzing sales performance, revenue, cost of goods sold (COGS), gross profit, and profitability across different countries, regions, and sales channels using Pivot Tables, Pivot Charts, and KPIs.
 ABC Executive Summary & Profitability Dashboard
 📊 Project Overview
@@ -10,7 +10,7 @@ This project presents an interactive ABC Sales Executive Summary and Profitabili
 - Evaluate revenue contribution by country and region.
 - Compare sales performance across sales channels.
 - Present key metrics and trends in a consolidated visual dashboard.
-🧰 Tools & Excel Features
+Tools & Excel Features:
 - Microsoft Excel
 - Excel Tables
 - Pivot Tables
